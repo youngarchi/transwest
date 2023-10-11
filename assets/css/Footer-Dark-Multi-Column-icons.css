@@ -1,0 +1,386 @@
+.bs-icon {
+  --bs-icon-size: .75rem;
+  display: flex;
+  flex-shrink: 0;
+  justify-content: center;
+  align-items: center;
+  font-size: var(--bs-icon-size);
+  width: calc(var(--bs-icon-size) * 2);
+  height: calc(var(--bs-icon-size) * 2);
+  color: var(--bs-primary);
+}
+
+.bs-icon-xs {
+  --bs-icon-size: 1rem;
+  width: calc(var(--bs-icon-size) * 1.5);
+  height: calc(var(--bs-icon-size) * 1.5);
+}
+
+.bs-icon-sm {
+  --bs-icon-size: 1rem;
+}
+
+.bs-icon-md {
+  --bs-icon-size: 1.5rem;
+}
+
+.bs-icon-lg {
+  --bs-icon-size: 2rem;
+}
+
+.bs-icon-xl {
+  --bs-icon-size: 2.5rem;
+}
+
+.bs-icon.bs-icon-primary {
+  color: var(--bs-white);
+  background: var(--bs-primary);
+}
+
+.bs-icon.bs-icon-primary-light {
+  color: var(--bs-primary);
+  background: rgba(var(--bs-primary-rgb), .2);
+}
+
+.bs-icon.bs-icon-semi-white {
+  color: var(--bs-primary);
+  background: rgba(255, 255, 255, .5);
+}
+
+.bs-icon.bs-icon-rounded {
+  border-radius: .5rem;
+}
+
+.bs-icon.bs-icon-circle {
+  border-radius: 50%;
+}
+
+ul {
+  padding-left: 0px;
+}
+
+.allcountry_list {
+  margin: 40px 0px;
+}
+
+#header_optional {
+  display: none;
+}
+
+@media (max-width: 456px) {
+  .container {
+    max-width: 310px;
+  }
+}
+
+@media (max-width: 767px) {
+  .bullet {
+    display: block;
+  }
+}
+
+@media (max-width: 767px) {
+  .bullet li {
+    width: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  div h2 {
+    font-size: 25px;
+  }
+}
+
+@media (max-width: 767px) {
+  div h2 {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 767px) {
+  div h4 {
+    font-size: 17px;
+  }
+}
+
+ul {
+  list-style: none;
+  margin: 0px;
+}
+
+.container p {
+  margin: 0px;
+}
+
+.h_t {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  line-height: 1%;
+  text-align: center;
+  background: #fff;
+  border-radius: 16px;
+  padding: 6px 6px 6px 6px;
+}
+
+.h_v {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  line-height: 1%;
+  text-align: center;
+  background: #fff;
+  border-radius: 16px;
+  padding: 6px 6px 6px 6px;
+}
+
+.h_w {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  line-height: 1%;
+  text-align: center;
+  background: #fff;
+  border-radius: 16px;
+  padding: 6px 6px 6px 6px;
+}
+
+#h_btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /*font: normal normal 15px "Inter";*/
+  color: #fff;
+  text-decoration: none;
+  padding-top: 2px;
+  width: 180px;
+  height: 40px;
+  font-weight: normal;
+  color: #000;
+  background: #45AD70;
+  border: none;
+  transition: all 0.5s;
+  padding-bottom: 0px;
+}
+
+#h_btn:hover {
+  background: var(--bs-yellow);
+}
+
+.resp_header {
+  display: none;
+}
+
+#mar-row p {
+  font-size: 18px;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+a {
+}
+
+.footer_link {
+  color: white;
+}
+
+.hp_ua {
+  background: url(https://transwest.kitsunekko.net/img/ukraine.jpg) no-repeat 5px 7px;
+  padding-left: 30px;
+  margin-left: -5px;
+}
+
+.hp_pl {
+  background: url(https://transwest.kitsunekko.net/img/poland.jpg) no-repeat 0px 7px;
+  padding-left: 25px;
+  padding-right: 13px;
+}
+
+#menu_contact li {
+  width: 60px;
+  height: 60px;
+  border: 2px #45ad70 solid;
+  border-radius: 50%;
+  display: inline-block;
+  /*justify-content: center;*/
+  /*align-items: center;*/
+  position: relative;
+}
+
+.show_phone {
+  background: url(https://www.flaticon.com/ru/free-icon/calculator_4064672?term=%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80&page=1&position=2&origin=search&related_id=4064672);
+}
+
+#add_header {
+  display: none;
+  margin-bottom: 0px;
+}
+
+@media (max-width: 1399px) {
+  #add_header {
+    display: flex;
+  }
+}
+
+@media (max-width: 1399px) {
+  #header {
+    display: none;
+  }
+}
+
+@media (max-width: 992px) {
+  #add_header_photo {
+    width: 200px;
+  }
+}
+
+@media (max-width: 767px) {
+  #menu_contact li {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  #add_header_photo {
+    width: 180px;
+  }
+}
+
+@media (max-width: 767px) {
+  #image_block {
+    display: flex;
+    /*justify-content: center;*/
+    align-items: center;
+  }
+}
+
+#header {
+  margin-bottom: 0px;
+}
+
+@media (max-width: 575px) {
+  #add_header_col3 {
+    margin-bottom: 15px;
+  }
+}
+
+#menu_contact_a {
+  display: block;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+@media (max-width: 575px) {
+  #add_header_container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 400px) {
+  #add_header_container {
+    max-width: 280px;
+  }
+}
+
+@media (max-width: 575px) {
+  #image_block {
+    justify-content: center;
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 575px) {
+  #button_header_block {
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 991px) {
+  #span_contact {
+    position: absolute;
+    top: 60px;
+    color: rgb(255,255,255);
+    font-family: Montserrat, sans-serif;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 767px) {
+  #span_contact {
+    color: rgb(255,255,255);
+    font-family: Montserrat, sans-serif;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 767px) {
+  #span_contact {
+    position: absolute;
+    top: 60px;
+    color: rgb(255,255,255);
+    font-family: Montserrat, sans-serif;
+    font-size: 14px;
+  }
+}
+
+#span_contact {
+  position: absolute;
+  top: 60px;
+  color: rgb(255,255,255);
+  font-family: Montserrat, sans-serif;
+  font-size: 14px;
+}
+
+#menu_call_li {
+  /*background: url(https://transwest.kitsunekko.net/img/ukraine.jpg) no-repeat 5px 7px;*/
+  padding-left: 25px;
+  margin-left: -5px;
+}
+
+#div_menu_call {
+  /*display: none;*/
+}
+
+#menu_call {
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  transition: all 0.4s ease-in-out;
+}
+
+@media (max-width: 767px) {
+  #img_footer {
+    width: 200px;
+  }
+}
+
+@media (max-width: 767px) {
+  #img_footer {
+    width: 200px;
+  }
+}
+
+@media (max-width: 767px) {
+  #img_footer {
+    width: 200px;
+  }
+}
+
+@media (max-width: 575px) {
+  #img_footer {
+    width: 300px;
+  }
+}
+
+@media (max-width: 457px) {
+  .bullet {
+    font-size: 14px;
+  }
+}
+

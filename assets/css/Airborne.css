@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Airborne';
+	src: url(../../assets/fonts/airborne-400-normal.woff2.html) format('html'),
+	url(../../assets/fonts/airborne-400-normal.woff) format('woff'),
+	url(../../assets/fonts/airborne-400-normal.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: auto;
+}

@@ -1,0 +1,85 @@
+.contact_flags li:nth-child(2) a {
+  background: url(../img/ukraine.jpg) no-repeat 0 3px;
+  padding-left: 20px;
+}
+
+.contact_flags li:nth-child(4) a {
+  background: url(../img/russia.jpg) no-repeat 0 3px;
+  padding-left: 20px;
+}
+
+.contact_flags li:nth-child(3) a {
+  background: url(../img/poland.jpg) no-repeat 0 3px;
+  padding-left: 28px;
+}
+
+.key img {
+  border: 2px solid transparent;
+  padding: 0px;
+  background: transparent;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.routeimgs {
+  margin: -3em 0 0 -2em;
+  text-align: center;
+}
+
+.routeimg {
+  text-decoration: none;
+  display: -moz-inline-box;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin: 3em 0 0 3em;
+}
+
+.routeimg .r {
+  width: 14em;
+  float: left;
+}
+
+.bprice {
+  height: 125px;
+  float: left;
+  margin-right: 20px;
+}
+
+.DoCargo {
+  border-radius: 10px;
+  padding: 10px;
+  border: 3px #45ad70 dashed;
+  display: inline-block;
+}
+
+.calc_form {
+  background: #45ad70!important;
+}
+
+.calc_form select, .calc_form input {
+  border: 2px solid #429e68!important;
+}
+
+.expanded_form label[for="temp"] {
+  color: #ffffff!important;
+}
+
+.expanded_form label[for="file"] {
+  color: #fff!important;
+}
+
+.expanded_form section input {
+  color: #fff!important;
+  background: #0000!important;
+}
+
+.expanded_form section {
+  color: #fff;
+}
+
+#chat, #chat_msg {
+  display: none;
+}
+

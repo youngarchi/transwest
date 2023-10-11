@@ -1,0 +1,403 @@
+#mar-row {
+  max-width: 1320px;
+  margin: 0 auto;
+}
+
+#button_rachet {
+  width: 100%;
+  transition: background-color 0.5s;
+  background-color: #45AD70;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 11px;
+}
+
+.logo_img {
+  width: 154px;
+  height: 116px;
+  margin-top: 29px;
+}
+
+.country_list {
+  margin: 0px;
+  width: 212px;
+  height: 212px;
+  display: inline-block;
+  border: 1px solid #CDCDCD;
+  box-sizing: border-box;
+  border-radius: 3px;
+}
+
+.country_list:not(:first-child) {
+  margin-left: 45px;
+}
+
+@media (max-width: 991px) {
+  .country_list a img {
+    width: 76px;
+    height: 57px;
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .country_list:not(:first-child) {
+    margin-left: 0px;
+  }
+}
+
+@media (max-width: 778px) {
+  .country_list {
+    width: 90%;
+  }
+}
+
+@media (max-width: 778px) {
+  .country_list:not(:last-child) {
+    margin-bottom: 10px;
+  }
+}
+
+.allcountry_list {
+}
+
+.popular_cargo {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  margin-top: 20px;
+  display: block;
+}
+
+.popular_cargo li {
+  display: inline-block;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 0 4px 0px 0;
+  width: 310px;
+  /*height: 320px;*/
+}
+
+@media (max-width: 457px) {
+  .popular_cargo li {
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0 4px 0px 0;
+    width: 230px;
+    /*height: 320px;*/
+  }
+}
+
+.popular_cargo li img {
+  width: 130px;
+  height: 130px;
+  margin-top: 45px;
+}
+
+h3 {
+  width: 1330px;
+  padding: 15px 20px;
+  display: inline-block;
+  margin-bottom: 0;
+  /*margin-top: 0;*/
+}
+
+.popular_cargo li p {
+  width: 100%;
+  height: 220px;
+  background: #EEF2F4;
+  margin: 0px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none !important;
+  color: #000;
+}
+
+.popular_cargo li div {
+  text-align: center;
+  font-weight: 500;
+  font-size: 18px;
+  color: #535353;
+  padding: 20px 0 30px 0;
+  background: #EEF2F4;
+}
+
+hr {
+  height: 0px;
+  border: none;
+  margin: 0px;
+}
+
+.none_button {
+  display: none;
+}
+
+#perevozki {
+  padding-left: 10px;
+}
+
+.bullet {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  counter-reset: li;
+}
+
+@media (max-width: 767px) {
+  .bullet {
+    /*width: 100%;*/
+    /*margin: 0 auto;*/
+    /*padding: 0;*/
+    list-style: none;
+    display: block;
+    /*flex-wrap: wrap;*/
+    /*counter-reset: li;*/
+  }
+}
+
+.bullet li {
+  margin: 10px;
+  padding-left: 40px;
+  position: relative;
+  margin-bottom: 1.5em;
+  border: 3px solid #CADFCF;
+  padding: 0.6em;
+  border-radius: 4px;
+  background: #FEFEFE;
+  color: #231F20;
+  width: calc(50% - 20px);
+  height: 75px;
+  vertical-align: middle;
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 767px) {
+  .bullet li {
+    max-width: 100%;
+    width: auto;
+  }
+}
+
+.bullet li:before {
+  position: absolute;
+  top: -0.7em;
+  padding-left: 0.4em;
+  padding-right: 0.4em;
+  font-size: 16px;
+  font-weight: bold;
+  color: #DCC24B;
+  background: #FEFEFE;
+  border-radius: 50%;
+  counter-increment: li;
+  content: counter(li);
+}
+
+h2 {
+  padding-left: 10px;
+}
+
+#popular_services {
+  padding-left: 0px;
+  list-style: none;
+}
+
+#popular_services li {
+  /*all: initial;*/
+  display: flex;
+  box-sizing: border-box;
+  text-align: center;
+  /*margin: 0 10px 20px 0;*/
+  width: 310px;
+  height: 320px;
+}
+
+#popular_services li p {
+  width: 310px;
+  height: 220px;
+  background: #EEF2F4;
+  margin: 0px;
+  text-align: center;
+}
+
+.text-bg-secondary {
+  padding-right: 10px;
+}
+
+.popular_text {
+  text-align: center;
+  font-weight: 500;
+  font-size: 18px;
+  color: #535353;
+  padding: 20px 0 30px 0;
+  background: #EEF2F4;
+  height: 100px;
+}
+
+#button_rachet:hover {
+  background-color: var(--bs-yellow);
+}
+
+h4 {
+  padding-left: 10px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.footer-item {
+  flex: 1;
+  max-width: 270px;
+  padding: 0 10px;
+  /*background-color: #555;*/
+  /*border-radius: 5px;*/
+}
+
+.footer_ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.footer_ul li {
+  text-align: left;
+}
+
+.footer_ul li:first-child {
+  margin-bottom: 15px;
+}
+
+.footer-item a {
+  color: white;
+  text-align: center;
+}
+
+.footer-msg {
+  list-style: none;
+  padding-left: 0px;
+  text-align: left;
+  margin-top: 15px;
+}
+
+#footer-tg {
+  margin-bottom: 0px;
+}
+
+.footer-msg li {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  line-height: 1%;
+  margin-right: 2px;
+  text-align: center;
+  background: #fff;
+  border-radius: 16px;
+  padding: 6px 6px 6px 6px;
+}
+
+#header_flags1:before {
+  content: "";
+  display: inline-block;
+  width: 15px;
+  height: 11px;
+  background-image: url('https://transwest.kitsunekko.net/img/ukraine.jpg');
+  background-size: cover;
+  margin-right: 8px;
+  /*padding-left: 20px;*/
+  /*margin-top: 20px;*/
+  /*vertical-align: middle;*/
+}
+
+#header_flags2:before {
+  content: "";
+  display: inline-block;
+  width: 15px;
+  height: 11px;
+  background-image: url('https://transwest.kitsunekko.net/img/poland.jpg');
+  background-size: cover;
+  margin-right: 8px;
+}
+
+#contact_messengers {
+  list-style: none;
+}
+
+#contact_button {
+  transition: background-color 0.5s;
+  background-color: #45AD70;
+}
+
+#contact_button:hover {
+  background: var(--bs-yellow);
+}
+
+.popular_cargo li a {
+  height: 100%;
+  margin-top: 100px;
+}
+
+@media (max-width: 767px) {
+  #margin_forform {
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 992px) {
+  #add_header a {
+    font-size: 18px;
+    /*display: block;*/
+  }
+}
+
+@media (max-width: 992px) {
+  #span_contact {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 767px) {
+  #span_contact {
+    top: 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  #add_header_col3 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 766px) {
+  #image_block {
+    justify-content: center;
+  }
+}
+
+#main_container p {
+  font-size: 18px;
+}
+
+@media (max-width: 575px) {
+  #main_container p {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 575px) {
+  h1 {
+    font-size: 22px;
+  }
+}
+

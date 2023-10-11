@@ -1,0 +1,281 @@
+.sprite {
+  background: url(../img/flags.png) no-repeat top left;
+  width: 27px;
+  height: 13px;
+  margin-right: 3px;
+}
+
+.sprite.abkhaziya {
+  background-position: 0 0;
+}
+
+.sprite.afghanistan {
+  background-position: 0 -13px;
+}
+
+.sprite.albania {
+  background-position: 0 -26px;
+}
+
+.sprite.andorra {
+  background-position: 0 -39px;
+}
+
+.sprite.anglia {
+  background-position: 0 -52px;
+}
+
+.sprite.armenia {
+  background-position: 0 -65px;
+}
+
+.sprite.avstria {
+  background-position: 0 -78px;
+}
+
+.sprite.azerbajdzhan {
+  background-position: 0 -91px;
+}
+
+.sprite.belgia {
+  background-position: 0 -104px;
+}
+
+.sprite.belorussia {
+  background-position: 0 -117px;
+}
+
+.sprite.bolgaria {
+  background-position: 0 -130px;
+}
+
+.sprite.bosnia {
+  background-position: 0 -143px;
+}
+
+.sprite.chehia {
+  background-position: 0 -156px;
+}
+
+.sprite.chernogoria {
+  background-position: 0 -169px;
+}
+
+.sprite.dania {
+  background-position: 0 -182px;
+}
+
+.sprite.es {
+  background-position: 0 -195px;
+}
+
+.sprite.estonia {
+  background-position: 0 -208px;
+}
+
+.sprite.evropa {
+  background-position: 0 -221px;
+}
+
+.sprite.finlandia {
+  background-position: 0 -234px;
+}
+
+.sprite.francia {
+  background-position: 0 -247px;
+}
+
+.sprite.gb {
+  background-position: 0 -260px;
+}
+
+.sprite.germania {
+  background-position: 0 -273px;
+}
+
+.sprite.gollandia {
+  background-position: 0 -286px;
+}
+
+.sprite.grecia {
+  background-position: 0 -299px;
+}
+
+.sprite.gruzija {
+  background-position: 0 -312px;
+}
+
+.sprite.horvatia {
+  background-position: 0 -325px;
+}
+
+.sprite.irak {
+  background-position: 0 -338px;
+}
+
+.sprite.iran {
+  background-position: 0 -351px;
+}
+
+.sprite.irlandia {
+  background-position: 0 -364px;
+}
+
+.sprite.islandia {
+  background-position: 0 -377px;
+}
+
+.sprite.ispania {
+  background-position: 0 -390px;
+}
+
+.sprite.italia {
+  background-position: 0 -403px;
+}
+
+.sprite.izrail {
+  background-position: 0 -416px;
+}
+
+.sprite.kazahstan {
+  background-position: 0 -429px;
+}
+
+.sprite.kipr {
+  background-position: 0 -442px;
+}
+
+.sprite.kitaj {
+  background-position: 0 -455px;
+}
+
+.sprite.kyrgyzstan {
+  background-position: 0 -468px;
+}
+
+.sprite.latvia {
+  background-position: 0 -481px;
+}
+
+.sprite.lihtenshtein {
+  background-position: 0 -494px;
+}
+
+.sprite.litva {
+  background-position: 0 -507px;
+}
+
+.sprite.luxemburg {
+  background-position: 0 -520px;
+}
+
+.sprite.macedonia {
+  background-position: 0 -533px;
+}
+
+.sprite.malta {
+  background-position: 0 -546px;
+}
+
+.sprite.moldova {
+  background-position: 0 -559px;
+}
+
+.sprite.monaco {
+  background-position: 0 -572px;
+}
+
+.sprite.mongolia {
+  background-position: 0 -585px;
+}
+
+.sprite.netherlands {
+  background-position: 0 -598px;
+}
+
+.sprite.norvegia {
+  background-position: 0 -611px;
+}
+
+.sprite.polsha {
+  background-position: 0 -624px;
+}
+
+.sprite.portugalia {
+  background-position: 0 -637px;
+}
+
+.sprite.rossija {
+  background-position: 0 -650px;
+}
+
+.sprite.rumynia {
+  background-position: 0 -663px;
+}
+
+.sprite.san-marino {
+  background-position: 0 -676px;
+}
+
+.sprite.serbia {
+  background-position: 0 -689px;
+}
+
+.sprite.shvecia {
+  background-position: 0 -702px;
+}
+
+.sprite.shvejcaria {
+  background-position: 0 -715px;
+}
+
+.sprite.siria {
+  background-position: 0 -728px;
+}
+
+.sprite.slovakia {
+  background-position: 0 -741px;
+}
+
+.sprite.slovenia {
+  background-position: 0 -754px;
+}
+
+.sprite.tadzhikistan {
+  background-position: 0 -767px;
+}
+
+.sprite.turcia {
+  background-position: 0 -780px;
+}
+
+.sprite.turkmenistan {
+  background-position: 0 -793px;
+}
+
+.sprite.ukraina {
+  background-position: 0 -806px;
+}
+
+.sprite.usa {
+  background-position: 0 -819px;
+}
+
+.sprite.uzbekistan {
+  background-position: 0 -832px;
+}
+
+.sprite.vengria {
+  background-position: 0 -845px;
+}
+
+#menu_contact {
+  width: 100%;
+}
+
+@media (max-width: 400px) {
+  #menu_contact {
+    width: 80%;
+  }
+}
+

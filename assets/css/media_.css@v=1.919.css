@@ -1,0 +1,1132 @@
+@media screen and (max-width: 1450px) {
+  .footer div {
+    width: 95%;
+  }
+}
+
+@media screen and (max-width: 1370px) {
+  .top_block {
+    width: 85%;
+  }
+}
+
+@media screen and (max-width: 1370px) {
+  .fleet_text {
+    width: 85%;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .footer div {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .button_header a + a {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .top_block {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .fleet_text {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .newform_calc section > div {
+    width: 100%;
+    display: block;
+    margin: 10px 0;
+  }
+}
+
+@media screen and (max-width: 1180px) {
+  .menu > ul > li {
+    margin: 10px 0;
+  }
+}
+
+@media screen and (max-width: 1150px) {
+  .header {
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 1150px) {
+  .header > div {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1150px) {
+  .logo_name {
+    position: relative;
+    top: auto;
+    left: auto;
+    transform: translate(0, 0);
+    -webkit-transform: translate(0, 0);
+    -moz-transform: translate(0, 0);
+    -ms-transform: translate(0, 0);
+    padding-top: 5px;
+    margin-left: 20px;
+  }
+}
+
+@media screen and (max-width: 1150px) {
+  .geography > div {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 1150px) {
+  .title p {
+    font: normal bold 20px/30px "Arial";
+  }
+}
+
+@media screen and (max-width: 1150px) {
+  .client_reviews {
+    margin: 0 5px;
+  }
+}
+
+@media screen and (max-width: 1150px) {
+  .news_block {
+    margin: 0 5px;
+    padding: 15px 10px;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .footer div {
+    width: 70%;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .footer ul {
+    margin-top: 20px;
+    width: calc(100% / 2);
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .fleet {
+    margin: 15px 5px;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .news_block_list_img {
+    float: none;
+    display: block;
+    margin: 0 10px 10px 0;
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 1080px) {
+  .client_reviews {
+    margin: 0 auto 20px;
+    display: block;
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 1080px) {
+  .client_reviews p span:only-child {
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 1080px) {
+  .news_block {
+    margin: 10px 10px;
+    width: 350px;
+    max-width: 600px;
+    height: auto;
+    padding: 20px 20px 15px;
+    overflow: auto;
+  }
+}
+
+@media screen and (max-width: 1080px) {
+  .news_block p {
+    vertical-align: top;
+    box-sizing: border-box;
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 1080px) {
+  .news_block p + p {
+    display: block;
+    padding-top: 0;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1080px) {
+  .news_block p + p:before {
+    content: '';
+    display: table;
+    clear: both;
+  }
+}
+
+@media screen and (max-width: 1080px) {
+  .reviews {
+    padding: 0 15px 30px;
+  }
+}
+
+@media screen and (max-width: 1080px) {
+  .reviews a {
+    margin-top: 10px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .footer div {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .social div:not(.social_link) {
+    width: 70%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .top_block {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .fleet_text {
+    width: 95%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .pages_block {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .title p {
+    padding-left: 20px;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  .contact_header {
+    margin-right: 20px;
+  }
+}
+
+@media screen and (max-width: 930px) {
+  .button_header a {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .footer div {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .pages_block {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .pallet_list div {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .text_block {
+    padding: 0 20px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .sidebar {
+    width: 100%;
+    float: none;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .news_block_list div {
+    border-left: none;
+    border-bottom: 2px solid #89a;
+    margin-bottom: 15px;
+    padding: 0 0 10px 0px;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .news_block_list div:last-child {
+    border-bottom: none;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .news_block_list img {
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .add_block_info {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .text_contain {
+    width: 100%;
+    padding: 0 15px;
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .calc_form select, .calc_form input {
+    display: block;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .expanded_form section input {
+    display: inline;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .top_block {
+    min-height: auto;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .show_hide form {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .show_hide > p {
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .show_hide > p:after {
+    content: '\25BC';
+    padding-left: 15px;
+    color: #616E7B;
+    font: normal normal 17px Roboto;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .click_show_form:after {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .img_block {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .map_pages {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .text {
+    margin-top: 20px;
+  }
+}
+
+@media screen and (max-width: 906px) {
+  .fleet {
+    margin: 15px;
+  }
+}
+
+@media screen and (max-width: 870px) {
+  .fleet {
+    margin: 15px 7px;
+  }
+}
+
+@media screen and (max-width: 870px) {
+  .map {
+    transform: scale(0.8);
+  }
+}
+
+@media screen and (max-width: 830px) {
+  .client_reviews {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 830px) {
+  .news_block {
+    width: 100%;
+    max-width: 100%;
+    margin: 10px auto;
+  }
+}
+
+@media screen and (max-width: 830px) {
+  .news_block img {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 830px) {
+  .news_block {
+    padding: 10px;
+  }
+}
+
+@media screen and (max-width: 830px) {
+  .footer div {
+    width: 95%;
+  }
+}
+
+@media screen and (max-width: 840px) {
+  .title p {
+    font: normal bold 18px/30px "Arial";
+  }
+}
+
+@media screen and (max-width: 820px) {
+  .fleet {
+    margin: 15px;
+  }
+}
+
+@media screen and (max-width: 780px) {
+  .contact_header_add {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  .title {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  .map {
+    transform: scale(0.7);
+  }
+}
+
+@media screen and (max-width: 735px) {
+  .advantages_sub {
+    width: 100%;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 735px) {
+  .map_block {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .footer ul {
+    width: 100%;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .geography > div {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .geography_left, .geography_right {
+    position: static;
+    top: auto;
+    left: auto;
+    transform: translate(0, 0);
+    -webkit-transform: translate(0, 0);
+    -moz-transform: translate(0, 0);
+    -ms-transform: translate(0, 0);
+    display: block;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .geography_right {
+    display: inline-block;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .geography_left p {
+    font: normal bold 25px "Arial";
+    padding: 5px 0 0;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .geography_left p + p {
+    padding: 0 0 5px;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .news_block p {
+    display: block;
+    width: 100%;
+    padding: 0 0 0 15px;
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .news_block p + p {
+    padding-top: 15px;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .social div:not(.social_link) {
+    text-align: center;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .social p {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .social_link {
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .iti-mobile .intl-tel-input.iti-container {
+    left: 0 !important;
+    right: 0 !important;
+    z-index: 99999999;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .right_header {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .link_index {
+    display: inline-block;
+  }
+}
+
+@media screen and (max-width: 625px) {
+  .logo_name {
+    margin: 0 10px;
+  }
+}
+
+@media screen and (max-width: 625px) {
+  .logo_name p {
+    margin: 0 0 0 8px;
+  }
+}
+
+@media screen and (max-width: 625px) {
+  .contact_header {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 625px) {
+  .right_header {
+    position: relative;
+    top: 0px;
+    right: 0;
+    transform: translate(0, 0);
+    -webkit-transform: translate(0, 0);
+    -moz-transform: translate(0, 0);
+    -ms-transform: translate(0, 0);
+    background: #fff;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .logo_name:before {
+    font-size: 58px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .menu li :before {
+    font: normal normal 36px 'TransWest-Glyphs';
+    vertical-align: middle;
+    color: #fff;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .menu li:nth-child(1) :before {
+    content: '\f643';
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .menu li:nth-child(2) :before {
+    content: '\f642';
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .menu li:nth-child(3) :before {
+    content: '\f637';
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .menu li:nth-child(4) :before {
+    content: '\f639';
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .menu li:nth-child(5) :before {
+    content: '\f638';
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .menu li:nth-child(6) :before {
+    content: '\f640';
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .menu > ul > li > a {
+    padding-left: 16px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #close_call_back {
+    display: block;
+    font: normal normal 18px Roboto;
+    text-decoration: none;
+    color: #F44336;
+    padding: 15px 0;
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+    -webkit-transform: translate(-50%, 0);
+    -moz-transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    width: 100%;
+    border: none;
+    border-radius: 0;
+    background: transparent;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #close_call_back:after {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .calc_form_page {
+    max-width: 100%;
+    padding: 15px 7px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .calc_form_page select, .calc_form_page input {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .calc_form_page select {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .calc_form_page input {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .calc_form_page input[name="name_cargo"], .calc_form_page input[name="name_client"], .calc_form_page input[name="tel"], .calc_form_page input[name="packaging"] {
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .calc_form_page label[for^="trans"] {
+    display: block;
+    overflow: auto;
+    width: 100px;
+    margin: 5px 5px 5px 45px;
+    text-align: left;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .calc_form_page section input {
+    display: inline;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .calc_form_page label[for="temp"] {
+    margin-right: 5px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .search_town {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .calc_volume_arbor {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .calc_volume {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .select_trans {
+    width: 100%;
+    max-width: 370px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .table_volume_arbor {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .fleet {
+    width: 100%;
+    margin: 15px 0;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .fleet div p {
+    text-align: center;
+    padding: 10px 0 10px 0;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .fleet a {
+    display: block;
+    margin: 0px 20px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .fixed_block {
+    box-shadow: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .button_header_mobile {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .list_articles {
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .list_articles ul {
+    padding: 10px 0 15px 15px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .menu_hide {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .list_contact ul {
+    margin: 10px 0;
+    display: block;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .top_block {
+    margin: 10px auto 20px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #hide_menu {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .menu {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .menu {
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .menu > ul > li {
+    display: block;
+    width: 90%;
+    margin: 10px auto;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .menu > ul > li > a {
+    color: #fff;
+    background: #45AD70;
+    text-align: left;
+    padding-left: 12px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .edit_page select {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .edit_page div i {
+    display: block;
+    padding: 0 8px 0 5px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .edit_page input {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .edit_page textarea {
+    max-width: 400px;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .add_reviews img {
+    vertical-align: 0;
+    display: block;
+    margin: 0 0 10px 0;
+    border-radius: 4px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .pallet_list img {
+    float: none;
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .pallet_list ul {
+    margin: 10px 0 5px;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .news_block p {
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .slider {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .geography_left p {
+    padding: 11px 0;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .geography_left p + p {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .calc_route span {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .calc_route input {
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .geography_left p + p {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .error_page span {
+    font: normal normal 20px Arial;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .logo_name {
+    width: 310px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .logo_name p {
+    font: normal bold 24px "Arial";
+    margin: 0 0 0 5px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .logo_name p span {
+    font: normal bold 17px "Arial";
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .img_block img {
+    outline: none;
+    outline-offset: 0;
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .list_service li {
+    margin: 5px;
+  }
+}
+
+@media screen and (max-width: 440px) {
+  .client_reviews_block {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 440px) {
+  .client_reviews_block u {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 440px) {
+  .client_reviews_block p span {
+    vertical-align: middle;
+  }
+}
+
+@media screen and (max-width: 410px) {
+  .news_block_list section {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 410px) {
+  .news_block_list section span {
+    margin-right: 0px;
+  }
+}
+
+@media screen and (max-width: 410px) {
+  .expanded_form label[for^="trans"] {
+    display: block;
+    overflow: auto;
+    width: 100px;
+    margin: 5px 5px 5px 45px;
+    text-align: left;
+  }
+}
+
+@media screen and (max-width: 410px) {
+  .error_page a {
+    font: normal normal 20px "Arial";
+  }
+}
+
+@media screen and (max-width: 410px) {
+  .logo_name p {
+    font: normal bold 19px "Arial";
+    margin: 9px 0 0 5px;
+    margin: 9px 0 0 5px;
+  }
+}
+
+@media screen and (max-width: 410px) {
+  .logo_name p span {
+    font: normal bold 14px "Arial";
+  }
+}
+
+@media screen and (max-width: 410px) {
+  .calc_volume_arbor span {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 0 0 5px;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .list_service li {
+    width: 100%;
+    margin: 5px 0;
+    height: auto;
+    padding-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 370px) {
+  .select_trans span {
+    width: 100px;
+  }
+}
+
+@media screen and (max-width: 370px) {
+  .img_block img {
+    max-width: 100%;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 370px) {
+  .related_articles ul {
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 370px) {
+  .docs_vss li {
+    padding-left: 0;
+  }
+}
+
+@media screen and (max-width: 370px) {
+  .list_docs .counter_docs {
+    position: relative;
+    right: 0;
+    top: 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .img_block img {
+    max-width: 100%;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .logo_name {
+    margin: 0 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .link_index {
+    right: 4px;
+  }
+}
+
